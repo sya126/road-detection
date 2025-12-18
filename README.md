@@ -2,8 +2,11 @@
 
 An advanced computer vision project developed in Python that detects the entire drivable road surface. Unlike traditional lane detection systems that focus on a single ego-lane, this algorithm identifies the full road width using **geometric constraints** and **polynomial smoothing** to handle perspective distortion effectively.
 
-![Project Demo](output/road_detection_final.mp4) 
-*(Note: You can replace this link with a GIF of your result)*
+![Project Demo]
+
+
+https://github.com/user-attachments/assets/19f92962-bfd0-4d34-97eb-9a236d3f0b86
+
 
 ## 🌟 Key Features
 
